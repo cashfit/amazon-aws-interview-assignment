@@ -1,8 +1,8 @@
 # amazon-aws-interview-assignment
-Amazon AWS interview assignment
-Job: China Professional Service Infrastructure Architecture Consultant
-Time: May -- July 2015
-Result: no offer
+Amazon AWS interview assignment  
+Job: China Professional Service Infrastructure Architecture Consultant  
+Time: May -- July 2015  
+Result: no offer  
 
 
 * ProServe Assignment #1_v1.pdf  
