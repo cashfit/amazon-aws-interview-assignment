@@ -21,6 +21,8 @@ Time: May -- July 2015
 Job: AWS Database Sepecialist Cloud Architect
 Time: Aug 2019
 
-* Assignment- Database SSA.pdf
+* Assignment- Database SSA.pdf  
   assignment for Database Sepecialist on Aug 2019
-*
+* AWS Assignment JiangChang.docx   
+  assignment answer   
+  
