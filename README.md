@@ -18,7 +18,7 @@ Time: May -- July 2015
 * cf_template.json  
   assignment 2 CloudFormation script  
 
-Job: AWS Database Sepecialist Cloud Architect
+Job: AWS Database Sepecialist Cloud Architect   
 Time: Aug 2019
 
 * Assignment- Database SSA.pdf  
