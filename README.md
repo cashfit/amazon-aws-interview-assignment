@@ -14,7 +14,7 @@ Time: May -- July 2015
 * AWS Architecture Design.pdf  
   assignment answer 2  
 * aws_arch.pptx  
-  assignment 2 architecture figure  
+  assignment 2 architecture diagram  
 * cf_template.json  
   assignment 2 CloudFormation script  
 
@@ -25,4 +25,6 @@ Time: Aug 2019
   assignment for Database Sepecialist on Aug 2019
 * AWS Assignment JiangChang.docx   
   assignment answer   
+* AWS Assignment Architecture JiangChang.pptx   
+  assignment architecture diagram  
   
