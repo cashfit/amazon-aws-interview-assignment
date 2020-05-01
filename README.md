@@ -18,3 +18,6 @@ Time: May -- July 2015
 * cf_template.json  
   assignment 2 CloudFormation script  
 
+* Assignment- Database SSA.pdf
+  assignment for Database Sepecialist on Aug 2019
+*
